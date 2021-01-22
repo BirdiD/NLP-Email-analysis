@@ -21,10 +21,10 @@ The aim of this study is to point out a customer-oriented behavior by analyzing 
       * [Analysis of the words' distributions](#)
       * [Analysis of the biggest senders and receivers](#)
 4. [Text embedding and Clustering](#the-study)
-    *[Briefing about the Universal Sentence Encoder](#)
+    * [Briefing about the Universal Sentence Encoder](#)
       * [Mearl illustrating examples](#)
       * [Encoding emails' content and subject description](#)
-    *[Embeded vectors' clustering and clusters' analysis](#)
+    * [Embeded vectors' clustering and clusters' analysis](#)
       * [Elbow's method to determine the optimal number of clusters](#)
       * [Emails' content and subject clustering using the optimal number of clusters](#)
 
