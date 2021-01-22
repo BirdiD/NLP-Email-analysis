@@ -13,13 +13,15 @@ The aim of this study is to point out a customer-oriented behavior by analyzing 
     * [Natural Language Preprocessing text Cleaning](#nlp_cleaning)
     
 3. [Exploring the data : Data analysis](#Exploring-the-data)
-    * [Gender distribution](#Most-similar-to:)
-    * [Mails analysis](#Similarities:)
+    * [Gender distribution](#)
+    
+    * [Mails analysis](#)
+    
       * [Emails sending hour and date analysis](#)
       * [Analysis of the words' distributions](#)
       * [Analysis of the biggest senders and receivers](#)
 4. [Text embedding and Clustering](#the-study)
-    * [Briefing about the Universal Sentence Encoder](#)
+    *[Briefing about the Universal Sentence Encoder](#)
       * [Mearl illustrating examples](#)
       * [Encoding emails' content and subject description](#)
     *[Embeded vectors' clustering and clusters' analysis](#)
@@ -31,6 +33,6 @@ The aim of this study is to point out a customer-oriented behavior by analyzing 
    * [Clustering on the mail subject](#) 
       
 
-6.  [Conclusion and perspectives ](#)
+6. [Conclusion and perspectives ](#)
    * [Comparison between both](#)
    * [Other perspectives](#)
