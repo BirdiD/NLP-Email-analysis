@@ -4,9 +4,9 @@ The aim of this study is to point out a customer-oriented behavior by analyzing 
 # Plan
 
 
-1. [Getting Started](#Getting-Started)
-    * [Setting up the environment](#Setting-up-the-environment:)
-    * [Dataset description](#The-data:)
+1. [Getting Started](#)
+    * [Setting up the environment](#)
+    * [Dataset description](#)
 2. [Preprocessing ](#Preprocessing)
     * [Loading  and cleaning the dataset](#)
     * [Language detection](#Cleaning)
