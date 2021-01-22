@@ -27,10 +27,10 @@ The aim of this study is to point out a customer-oriented behavior by analyzing 
       * [Emails' content and subject clustering using the optimal number of clusters](#)
 
 5. [Clustering analysis : Profiling](#)
-  * [Clustering on the mail content](#)   
-  * [Clustering on the mail subject](#) 
+   * [Clustering on the mail content](#)   
+   * [Clustering on the mail subject](#) 
       
 
 6.  [Conclusion and perspectives ](#)
-  * [Comparison between both](#)
-  * [Other perspectives](#)
+   * [Comparison between both](#)
+   * [Other perspectives](#)
