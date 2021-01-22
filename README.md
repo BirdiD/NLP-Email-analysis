@@ -1,0 +1,2 @@
+# NLP-Email-analysis
+The aim of this study is to point out a customer-oriented behavior by analyzing emails sent by companies to users. An intuitive idea to underline such a behavior. An intuitive idea to underline such a behavior is to suppose that companies use methods with a discourse specifically tailored to the customer’s identity, belongings and interests. This is a group project in which we analyze emails contents and their subject, time distribution of emails sending etc.
